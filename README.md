@@ -1,4 +1,4 @@
-# My Notes
+## [My Notes](https://github.com/ranjankumar-gh/advanced-analytics-with-spark-book/blob/master/notes.md)
 
 Advanced Analytics with Spark Source Code
 =========================================
